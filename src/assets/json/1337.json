@@ -1,0 +1,2082 @@
+{
+  "programme": {
+    "date": "2021-04-06",
+    "entries": [
+      {
+        "media_id": 1980,
+        "title": "Hora Um",
+        "description": "Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.",
+        "webmedia_title_id": null,
+        "start_time": 1617692400,
+        "end_time": 1617699600,
+        "human_start_time": "07:00:00+00:00",
+        "human_end_time": "09:00:00+00:00",
+        "duration_in_minutes": 120,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": false,
+            "Dom": false
+          },
+          "TituloOriginal": null,
+          "TituloPortugues": null,
+          "Classe": null,
+          "Programa": "Hora Um",
+          "Complemento": null,
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Livre",
+          "Pais": "Brasil",
+          "Ano": 2021,
+          "Video": "HD",
+          "Diretor": null,
+          "AtorPrincipal": null,
+          "Elenco": null,
+          "Dubladores": null,
+          "Genero": { "Descricao": "Jornalismo" },
+          "Subgenero": { "Descricao": "Telejornais" },
+          "Classificacao": {
+            "Idade": "Isento",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": "Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.",
+            "ResumoImprensa": "Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.",
+            "Destaque": null
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6682.jpg",
+            "PosterURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Poster/9257.jpg",
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5.jpg",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 120,
+          "Tipo": "Jornalismo",
+          "ClosedCaption": false,
+          "URLPrograma": "https://g1.globo.com/hora1/"
+        },
+        "program": {
+          "id": 1980,
+          "name": "Hora Um",
+          "category": "Jornalismo",
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      },
+      {
+        "media_id": 4519,
+        "title": "Meio Dia Paraná ",
+        "description": ".",
+        "webmedia_title_id": null,
+        "start_time": 1617699600,
+        "end_time": 1617708600,
+        "human_start_time": "09:00:00+00:00",
+        "human_end_time": "11:30:00+00:00",
+        "duration_in_minutes": 150,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "true",
+          "DescricaoPrograma": ".",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": true,
+            "Dom": false
+          },
+          "TituloOriginal": null,
+          "TituloPortugues": null,
+          "Classe": null,
+          "Programa": "Meio Dia Paraná ",
+          "Complemento": "Meio Dia Paraná ",
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": null,
+          "Ano": 2019,
+          "Video": "SD",
+          "Diretor": null,
+          "AtorPrincipal": null,
+          "Elenco": null,
+          "Dubladores": null,
+          "Genero": { "Descricao": "Educativo" },
+          "Subgenero": { "Descricao": "Educativo" },
+          "Classificacao": {
+            "Idade": "Indefinido",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": null,
+            "ResumoImprensa": null,
+            "Destaque": "Cobertura especial - Bandeira vermelha em Curitiba / Coronavírus no Paraná"
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/2857.png",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/2856.png",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 150,
+          "Tipo": "Jornalismo",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "program": {
+          "id": 4519,
+          "name": "Meio Dia Paraná ",
+          "category": "Educativo",
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      },
+      {
+        "media_id": 699,
+        "title": "Bom Dia Brasil",
+        "description": "O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.",
+        "webmedia_title_id": "HMmTps9vSY",
+        "start_time": 1617708600,
+        "end_time": 1617712200,
+        "human_start_time": "11:30:00+00:00",
+        "human_end_time": "12:30:00+00:00",
+        "duration_in_minutes": 60,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": false,
+            "Dom": false
+          },
+          "TituloOriginal": "Bom Dia Brasil",
+          "TituloPortugues": "Bom Dia Brasil",
+          "Classe": null,
+          "Programa": "Bom Dia Brasil",
+          "Complemento": null,
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": "Brasil",
+          "Ano": 2021,
+          "Video": "HD",
+          "Diretor": "Ali Kamel",
+          "AtorPrincipal": null,
+          "Elenco": null,
+          "Dubladores": null,
+          "Genero": { "Descricao": "Jornalismo" },
+          "Subgenero": { "Descricao": "Telejornais" },
+          "Classificacao": {
+            "Idade": "Isento",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": "Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes.",
+            "ResumoImprensa": "O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.",
+            "Destaque": null
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6368.jpg",
+            "PosterURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Poster/9262.jpg",
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7.jpg",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 60,
+          "Tipo": "Jornalismo",
+          "ClosedCaption": false,
+          "URLPrograma": "https://g1.globo.com/bom-dia-brasil/"
+        },
+        "program": {
+          "id": 699,
+          "name": "Bom Dia Brasil",
+          "category": "Jornalismo",
+          "parental_guide": null,
+          "webmedia_program_id": 810
+        }
+      },
+      {
+        "media_id": 84,
+        "title": "Mais Você",
+        "description": "Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.",
+        "webmedia_title_id": "n9Vq6SMvsm",
+        "start_time": 1617712200,
+        "end_time": 1617716700,
+        "human_start_time": "12:30:00+00:00",
+        "human_end_time": "13:45:00+00:00",
+        "duration_in_minutes": 75,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": false,
+            "Dom": false
+          },
+          "TituloOriginal": "Mais Você",
+          "TituloPortugues": "Mais Você",
+          "Classe": null,
+          "Programa": "Mais Você",
+          "Complemento": "MAIS VOCÊ",
+          "Apresenta": null,
+          "Capitulo": "5283",
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": "Brasil",
+          "Ano": 2021,
+          "Video": "HD",
+          "Diretor": "Vivi de Marco",
+          "AtorPrincipal": null,
+          "Elenco": "Ana Maria Braga",
+          "Dubladores": null,
+          "Genero": { "Descricao": "Variedade" },
+          "Subgenero": { "Descricao": "Feminino" },
+          "Classificacao": {
+            "Idade": "Livre",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": "Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.",
+            "ResumoImprensa": "Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.",
+            "Destaque": null
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/10808.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10807.jpeg",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 75,
+          "Tipo": "Programa",
+          "ClosedCaption": false,
+          "URLPrograma": "https://gshow.globo.com/programas/mais-voce/"
+        },
+        "program": {
+          "id": 84,
+          "name": "Mais Você",
+          "category": "Variedade",
+          "parental_guide": null,
+          "webmedia_program_id": 2533
+        }
+      },
+      {
+        "media_id": 1047,
+        "title": "Encontro com Fátima Bernardes",
+        "description": "Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.",
+        "webmedia_title_id": "FzdMkLMYfg",
+        "start_time": 1617716700,
+        "end_time": 1617721200,
+        "human_start_time": "13:45:00+00:00",
+        "human_end_time": "15:00:00+00:00",
+        "duration_in_minutes": 75,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": false,
+            "Dom": false
+          },
+          "TituloOriginal": "Encontro com Fátima Bernardes",
+          "TituloPortugues": "Encontro com Fátima Bernardes",
+          "Classe": null,
+          "Programa": "ENCONTRO",
+          "Complemento": "Encontro com Fátima Bernardes",
+          "Apresenta": null,
+          "Capitulo": "2252",
+          "Inedito": null,
+          "DireitoCopia": "Livre",
+          "Pais": "Brasil",
+          "Ano": 2021,
+          "Video": "HD",
+          "Diretor": "Fabrício Mamberti; Mario Marcio Bandarra",
+          "AtorPrincipal": null,
+          "Elenco": "Fátima Bernardes",
+          "Dubladores": null,
+          "Genero": { "Descricao": "Variedade" },
+          "Subgenero": { "Descricao": "Auditório" },
+          "Classificacao": {
+            "Idade": "10",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": {
+            "Descritor": { "Codigo": "E12", "Descricao": "Violência" }
+          },
+          "Resumos": {
+            "Sinopse": "A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.",
+            "ResumoImprensa": "A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.",
+            "Destaque": null
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/870.jpg",
+            "PosterURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Poster/9236.jpg",
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/571.jpg",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 75,
+          "Tipo": "Programa",
+          "ClosedCaption": false,
+          "URLPrograma": "http://gshow.globo.com/programas/encontro-com-fatima-bernardes/"
+        },
+        "program": {
+          "id": 1047,
+          "name": "Encontro com Fátima Bernardes",
+          "category": "Variedade",
+          "parental_guide": null,
+          "webmedia_program_id": 5885
+        }
+      },
+      {
+        "media_id": 4519,
+        "title": "Meio Dia Paraná ",
+        "description": ".",
+        "webmedia_title_id": null,
+        "start_time": 1617721200,
+        "end_time": 1617724800,
+        "human_start_time": "15:00:00+00:00",
+        "human_end_time": "16:00:00+00:00",
+        "duration_in_minutes": 60,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "true",
+          "DescricaoPrograma": ".",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": true,
+            "Dom": false
+          },
+          "TituloOriginal": null,
+          "TituloPortugues": null,
+          "Classe": null,
+          "Programa": "Meio Dia Paraná ",
+          "Complemento": "Meio Dia Paraná ",
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": null,
+          "Ano": 2019,
+          "Video": "SD",
+          "Diretor": null,
+          "AtorPrincipal": null,
+          "Elenco": null,
+          "Dubladores": null,
+          "Genero": { "Descricao": "Educativo" },
+          "Subgenero": { "Descricao": "Educativo" },
+          "Classificacao": {
+            "Idade": "Indefinido",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": null,
+            "ResumoImprensa": null,
+            "Destaque": "Cobertura especial - Bandeira vermelha em Curitiba / Coronavírus no Paraná"
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/2857.png",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/2856.png",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 60,
+          "Tipo": "Jornalismo",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "program": {
+          "id": 4519,
+          "name": "Meio Dia Paraná ",
+          "category": "Educativo",
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      },
+      {
+        "media_id": 3590,
+        "title": "Globo Esporte PR",
+        "description": "Telejornal esportivo local, exibido de segunda a sábado, logo após o Meio Dia Paraná.",
+        "webmedia_title_id": null,
+        "start_time": 1617724800,
+        "end_time": 1617726300,
+        "human_start_time": "16:00:00+00:00",
+        "human_end_time": "16:25:00+00:00",
+        "duration_in_minutes": 25,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "true",
+          "DescricaoPrograma": "Telejornal esportivo local, exibido de segunda a sábado, logo após o Meio Dia Paraná.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": true,
+            "Dom": false
+          },
+          "TituloOriginal": null,
+          "TituloPortugues": null,
+          "Classe": null,
+          "Programa": "Globo Esporte PR",
+          "Complemento": "Globo Esporte PR",
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": null,
+          "Ano": 2018,
+          "Video": "SD",
+          "Diretor": null,
+          "AtorPrincipal": null,
+          "Elenco": null,
+          "Dubladores": null,
+          "Genero": { "Descricao": "Esporte" },
+          "Subgenero": { "Descricao": "Esporte" },
+          "Classificacao": {
+            "Idade": "Indefinido",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": "Telejornal esportivo local, exibido de segunda a sábado, logo após o Meio Dia Paraná. ",
+            "ResumoImprensa": "Telejornal esportivo local, exibido de segunda a sábado, logo após o Meio Dia Paraná. Com foco em notícias do esporte paranaense, é apresentando integralmente no estado.",
+            "Destaque": null
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/2158.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/36.jpg",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 25,
+          "Tipo": "Esporte",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "program": {
+          "id": 3590,
+          "name": "Globo Esporte PR",
+          "category": "Esporte",
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      },
+      {
+        "media_id": 41,
+        "title": "Jornal Hoje",
+        "description": "Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.",
+        "webmedia_title_id": "KLqhpkkZ5d",
+        "start_time": 1617726300,
+        "end_time": 1617731100,
+        "human_start_time": "16:25:00+00:00",
+        "human_end_time": "17:45:00+00:00",
+        "duration_in_minutes": 80,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": true,
+            "Dom": false
+          },
+          "TituloOriginal": "Jornal Hoje",
+          "TituloPortugues": "Jornal Hoje",
+          "Classe": null,
+          "Programa": "Jornal Hoje",
+          "Complemento": null,
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": "Brasil",
+          "Ano": 2021,
+          "Video": "HD",
+          "Diretor": "Ali Kamel",
+          "AtorPrincipal": null,
+          "Elenco": null,
+          "Dubladores": null,
+          "Genero": { "Descricao": "Jornalismo" },
+          "Subgenero": { "Descricao": "Telejornais" },
+          "Classificacao": {
+            "Idade": "Isento",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": "Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.",
+            "ResumoImprensa": "Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.",
+            "Destaque": null
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6834.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/20.jpg",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 80,
+          "Tipo": "Jornalismo",
+          "ClosedCaption": false,
+          "URLPrograma": "https://g1.globo.com/jornal-hoje/"
+        },
+        "program": {
+          "id": 41,
+          "name": "Jornal Hoje",
+          "category": "Jornalismo",
+          "parental_guide": null,
+          "webmedia_program_id": 818
+        }
+      },
+      {
+        "media_id": 5340,
+        "title": "Plantão BBB",
+        "description": "Plantão que comenta os acontecimentos mais recentes da casa mais vigiada do Brasil",
+        "webmedia_title_id": "ZYYFdZyRSx",
+        "start_time": 1617731100,
+        "end_time": 1617732600,
+        "human_start_time": "17:45:00+00:00",
+        "human_end_time": "18:10:00+00:00",
+        "duration_in_minutes": 25,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "Plantão que comenta os acontecimentos mais recentes da casa mais vigiada do Brasil",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": false,
+            "Dom": false
+          },
+          "TituloOriginal": "Plantão BBB",
+          "TituloPortugues": "Plantão BBB",
+          "Classe": null,
+          "Programa": "Plantão BBB",
+          "Complemento": "Plantão BBB",
+          "Apresenta": null,
+          "Capitulo": "2",
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": "Brasil",
+          "Ano": 2021,
+          "Video": "SD",
+          "Diretor": "Boninho",
+          "AtorPrincipal": null,
+          "Elenco": "Ana Clara Lima",
+          "Dubladores": null,
+          "Genero": { "Descricao": "Variedade" },
+          "Subgenero": { "Descricao": "Outros" },
+          "Classificacao": {
+            "Idade": "12",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": "Ana Clara recebe Marcelo Adnet e Babu Santana",
+            "ResumoImprensa": "Ana Clara recebe Marcelo Adnet e Babu Santana",
+            "Destaque": null
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": "https://gshow.globo.com/realities/bbb/bbb21/plantao-bbb/noticia/plantao-bbb-ana-clara-recebe-marcelo-adnet-e-babu-santana-nesta-terca-feira.ghtml",
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/11083.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/11051.jpg",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 25,
+          "Tipo": "Programa",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "program": {
+          "id": 5340,
+          "name": "Plantão BBB",
+          "category": "Variedade",
+          "parental_guide": null,
+          "webmedia_program_id": 13688
+        }
+      },
+      {
+        "media_id": 23,
+        "title": "Sessão da Tarde - Um Bom Partido",
+        "description": "Essa tradicional sessão de filmes traz dramas, romances, aventuras e animações às tardes da Globo.",
+        "webmedia_title_id": null,
+        "start_time": 1617732600,
+        "end_time": 1617738000,
+        "human_start_time": "18:10:00+00:00",
+        "human_end_time": "19:40:00+00:00",
+        "duration_in_minutes": 90,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "Essa tradicional sessão de filmes traz dramas, romances, aventuras e animações às tardes da Globo.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": false,
+            "Dom": false
+          },
+          "TituloOriginal": "Playing the Field",
+          "TituloPortugues": "Um Bom Partido",
+          "Classe": "Comédia romântica",
+          "Programa": "Sessão da Tarde",
+          "Complemento": "Um Bom Partido",
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": "Americana",
+          "Ano": 2012,
+          "Video": "HD",
+          "Diretor": "Gabriele Muccino",
+          "AtorPrincipal": null,
+          "Elenco": "Gerard Butler, Jessica Biel, Noah Lomax, Dennis Quaid, Uma Thurman, Catherine Zeta-Jones, James Tupper",
+          "Dubladores": "George: Afonso Amajones/ Stacie: Raquel Marinho/ Lewis: Vinny Takarrashi/ Carl: Léo Camilo/ Patti: Leticia Quinto/ Denise: Eleonora Prado/ Matt: Sérgio Corcetti / Barb: Lene Bastos/ Ally: Thaís Cremonesi/ Griffin: Lucas Cremonesi/ Hunter: Lucas Cremonesi/ Param: Paulo Porto/ Jacob: Claudio Satiro/ Len: Ramon Campos/ Chip Johnston: Vagner Santos/ Dawn: Letícia Quinto",
+          "Genero": { "Descricao": "Filme" },
+          "Subgenero": { "Descricao": "Filme" },
+          "Classificacao": {
+            "Idade": "10",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": {
+            "Descritor": { "Codigo": "E2", "Descricao": "Conteúdo Sexual" }
+          },
+          "Resumos": {
+            "Sinopse": "George, um ex-jogador de futebol que passa a treinar a equipe do filho para se aproximar do garoto, não consegue se manter afastado das mães dos colegas.",
+            "ResumoImprensa": "George, um ex-jogador famoso, tenta reconstruir sua relação com o filho e a ex-mulher, que está se casando novamente. Completamente sem grana, ele decide treinar o time de futebol do garoto, enquanto tenta sua sorte com um novo trabalho. Porém, as coisas se complicam quando as mães dos outros jogadores começam a assediá-lo. \n ",
+            "Destaque": null
+          },
+          "Idiomas": {
+            "Idioma": [{ "Codigo": "por", "Descricao": "Português" }]
+          },
+          "Audios": { "Audio": [{ "Tipo": "AudioDescriptor" }] },
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/602.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/22.jpg",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 90,
+          "Tipo": "Filme",
+          "ClosedCaption": true,
+          "URLPrograma": null
+        },
+        "program": {
+          "id": 23,
+          "name": "Sessão da Tarde - Um Bom Partido",
+          "category": "Filme",
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      },
+      {
+        "media_id": 5302,
+        "title": "Vale a Pena Ver de Novo - Ti Ti Ti",
+        "description": "A história da grande rivalidade entre André Spina/Jacques Leclair e Ariclenes Martins/Victor Valentim, que extrapola as fronteiras da vila do Belenzinho.",
+        "webmedia_title_id": null,
+        "start_time": 1617738000,
+        "end_time": 1617742200,
+        "human_start_time": "19:40:00+00:00",
+        "human_end_time": "20:50:00+00:00",
+        "duration_in_minutes": 70,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "A história da grande rivalidade entre André Spina/Jacques Leclair e Ariclenes Martins/Victor Valentim, que extrapola as fronteiras da vila do Belenzinho.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": false,
+            "Dom": false
+          },
+          "TituloOriginal": "Ti Ti Ti",
+          "TituloPortugues": "Ti Ti Ti",
+          "Classe": null,
+          "Programa": "Vale a Pena Ver de Novo",
+          "Complemento": "Ti Ti Ti",
+          "Apresenta": null,
+          "Capitulo": "7",
+          "Inedito": null,
+          "DireitoCopia": "Livre",
+          "Pais": "Brasileira",
+          "Ano": 2010,
+          "Video": "HD",
+          "Diretor": "Jorge Fernando",
+          "AtorPrincipal": null,
+          "Elenco": "Alexandre Borges, Murilo Benício, Caio Castro, Isis Valverde, Malu Mader, Nicette Bruno, Juliana Paiva, Tato Gabus Mendes",
+          "Dubladores": null,
+          "Genero": { "Descricao": "Novela" },
+          "Subgenero": { "Descricao": "Novela" },
+          "Classificacao": {
+            "Idade": "10",
+            "Conteudo": null,
+            "Sexo": true,
+            "Drogas": true,
+            "Violencia": true
+          },
+          "DescritoresConteudo": {
+            "Descritor": { "Codigo": "E5", "Descricao": "Drogas Lícitas" }
+          },
+          "Resumos": {
+            "Sinopse": "Em busca de figurantes, Ari conhece uma moradora de rua e se encanta por suas criações. ",
+            "ResumoImprensa": "Em busca de figurantes, Ari conhece uma moradora de rua e se encanta por suas criações. ",
+            "Destaque": "O encontro de Cecília e Ari"
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": "https://gshow.globo.com/novelas/ti-ti-ti/noticia/ti-ti-ti-jacques-leclair-e-jaqueline-se-beijam-ariclenes-conhece-cecilia-e-marcela-se-muda-para-a-mansao-dos-sampaio.ghtml",
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/11076.jpeg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/23.jpg",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 70,
+          "Tipo": "Novela",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "program": {
+          "id": 5302,
+          "name": "Vale a Pena Ver de Novo - Ti Ti Ti",
+          "category": "Novela",
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      },
+      {
+        "media_id": 3347,
+        "title": "Malhação - Sonhos",
+        "description": "Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.",
+        "webmedia_title_id": null,
+        "start_time": 1617742200,
+        "end_time": 1617744300,
+        "human_start_time": "20:50:00+00:00",
+        "human_end_time": "21:25:00+00:00",
+        "duration_in_minutes": 35,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": false,
+            "Dom": false
+          },
+          "TituloOriginal": "Malhação - Sonhos",
+          "TituloPortugues": "Malhação - Sonhos",
+          "Classe": null,
+          "Programa": "Malhação - Sonhos",
+          "Complemento": null,
+          "Apresenta": null,
+          "Capitulo": "52",
+          "Inedito": null,
+          "DireitoCopia": "Livre",
+          "Pais": "Brasileira",
+          "Ano": 2014,
+          "Video": "HD",
+          "Diretor": "direção de núcleo de José Alvarenga Jr. e direção geral de Luiz Henrique Rios,",
+          "AtorPrincipal": null,
+          "Elenco": "Rafael Vitti, Isabella Santoni, Arthur Aguiar, Bruna Hamú, Eriberto Leão, Emanuelle Araújo, Leo Jaime",
+          "Dubladores": null,
+          "Genero": { "Descricao": "Novela" },
+          "Subgenero": { "Descricao": "Novela" },
+          "Classificacao": {
+            "Idade": "10",
+            "Conteudo": null,
+            "Sexo": true,
+            "Drogas": false,
+            "Violencia": true
+          },
+          "DescritoresConteudo": {
+            "Descritor": { "Codigo": "E12", "Descricao": "Violência" }
+          },
+          "Resumos": {
+            "Sinopse": "Karina procura Pedro e dá beijão no guitarrista",
+            "ResumoImprensa": "Karina procura Pedro e dá beijão no guitarrista",
+            "Destaque": "Karina percebe que está apaixonada"
+          },
+          "Idiomas": {
+            "Idioma": [{ "Codigo": "por", "Descricao": "Português" }]
+          },
+          "Audios": null,
+          "Graficos": {
+            "URL": "https://gshow.globo.com/novelas/malhacao/sonhos-edicao-especial/vem-por-ai/noticia/malhacao-sonhos-karina-procura-pedro-e-da-beijao-no-guitarrista.ghtml",
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/11075.jpeg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10640.jpg",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 35,
+          "Tipo": "Novela",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "program": {
+          "id": 3347,
+          "name": "Malhação - Sonhos",
+          "category": "Novela",
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      },
+      {
+        "media_id": 4243,
+        "title": "A Vida da Gente",
+        "description": "A história de amor, conexão e afeto de Ana, Manu e Rodrigo. A trama traz à tona situações e experiências que instigam a reflexão sobre as escolhas que fazemos.",
+        "webmedia_title_id": "rtpWGDjhCt",
+        "start_time": 1617744300,
+        "end_time": 1617747000,
+        "human_start_time": "21:25:00+00:00",
+        "human_end_time": "22:10:00+00:00",
+        "duration_in_minutes": 45,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "A história de amor, conexão e afeto de Ana, Manu e Rodrigo. A trama traz à tona situações e experiências que instigam a reflexão sobre as escolhas que fazemos.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": true,
+            "Dom": false
+          },
+          "TituloOriginal": "A Vida da Gente",
+          "TituloPortugues": "A Vida da Gente",
+          "Classe": null,
+          "Programa": "Novela I",
+          "Complemento": "A Vida da Gente",
+          "Apresenta": null,
+          "Capitulo": "32",
+          "Inedito": null,
+          "DireitoCopia": "Livre",
+          "Pais": "Brasileira",
+          "Ano": 2011,
+          "Video": "HD",
+          "Diretor": "Jayme Monjardim",
+          "AtorPrincipal": null,
+          "Elenco": "Nicette Bruno, Fernanda Vasconcellos, Marjorie Estiano, Rafael Cardoso, Ana Beatriz Nogueira, Regiane Alves, Gisele Froes, Maria Eduarda de Carvalho, Malu Galli, Angelo Antonio, Stenio Garcia, Alice Wegmann, Julia Almeida, Sthefany Brito, Leona Cavalli",
+          "Dubladores": null,
+          "Genero": { "Descricao": "Novela" },
+          "Subgenero": { "Descricao": "Novela" },
+          "Classificacao": {
+            "Idade": "10",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": {
+            "Descritor": { "Codigo": "E11", "Descricao": "Temas Sensíveis" }
+          },
+          "Resumos": {
+            "Sinopse": "Após um papo elogiando Rodrigo com Manuela, Alice decide partir em busca de seu pai biológico, e abre o jogo com Cícero e Suzana.",
+            "ResumoImprensa": "Após um papo elogiando Rodrigo com Manuela, Alice decide partir em busca de seu pai biológico, e abre o jogo com Cícero e Suzana.",
+            "Destaque": "Alice quer procurar seu pai"
+          },
+          "Idiomas": {
+            "Idioma": [{ "Codigo": "por", "Descricao": "Português" }]
+          },
+          "Audios": null,
+          "Graficos": {
+            "URL": "https://gshow.globo.com/novelas/a-vida-da-gente/noticia/a-vida-da-gente-alice-quer-procurar-seu-pai-biologico.ghtml",
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/11078.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10833.jpg",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 45,
+          "Tipo": "Novela",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "program": {
+          "id": 4243,
+          "name": "A Vida da Gente",
+          "category": "Novela",
+          "parental_guide": null,
+          "webmedia_program_id": 5426
+        }
+      },
+      {
+        "media_id": 3621,
+        "title": "Boa Noite Paraná ",
+        "description": "Telejornal local, exibido de segunda a sábado, no início da noite.",
+        "webmedia_title_id": null,
+        "start_time": 1617747000,
+        "end_time": 1617748800,
+        "human_start_time": "22:10:00+00:00",
+        "human_end_time": "22:40:00+00:00",
+        "duration_in_minutes": 30,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "true",
+          "DescricaoPrograma": "Telejornal local, exibido de segunda a sábado, no início da noite.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": true,
+            "Dom": false
+          },
+          "TituloOriginal": null,
+          "TituloPortugues": null,
+          "Classe": null,
+          "Programa": "Boa Noite Paraná ",
+          "Complemento": "Boa Noite Paraná ",
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": null,
+          "Ano": 2020,
+          "Video": "HD",
+          "Diretor": null,
+          "AtorPrincipal": null,
+          "Elenco": null,
+          "Dubladores": null,
+          "Genero": { "Descricao": "Jornalismo" },
+          "Subgenero": { "Descricao": "Telejornais" },
+          "Classificacao": {
+            "Idade": "Livre",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": "Telejornal local, exibido de segunda a sábado, no início da noite.",
+            "ResumoImprensa": "Telejornal local, exibido de segunda a sábado, no início da noite.",
+            "Destaque": null
+          },
+          "Idiomas": {
+            "Idioma": [{ "Codigo": "por", "Descricao": "Português" }]
+          },
+          "Audios": {
+            "Audio": [
+              { "Tipo": "Audio5_1" },
+              { "Tipo": "AudioDescriptor" },
+              { "Tipo": "SAP_5_1" },
+              { "Tipo": "Stereo" }
+            ]
+          },
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/2859.png",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/2858.png",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 30,
+          "Tipo": "Jornalismo",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "program": {
+          "id": 3621,
+          "name": "Boa Noite Paraná ",
+          "category": "Jornalismo",
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      },
+      {
+        "media_id": 4123,
+        "title": "Salve-se Quem Puder",
+        "description": "A história três mulheres que testemunham um crime e têm suas vidas completamente transformadas.",
+        "webmedia_title_id": "FYST6Zg8kb",
+        "start_time": 1617748800,
+        "end_time": 1617751800,
+        "human_start_time": "22:40:00+00:00",
+        "human_end_time": "23:30:00+00:00",
+        "duration_in_minutes": 50,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "A história três mulheres que testemunham um crime e têm suas vidas completamente transformadas.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": true,
+            "Dom": false
+          },
+          "TituloOriginal": "Salve-se Quem Puder",
+          "TituloPortugues": "Salve-se Quem Puder",
+          "Classe": null,
+          "Programa": "Novela II",
+          "Complemento": "Salve-se Quem Puder",
+          "Apresenta": null,
+          "Capitulo": "14",
+          "Inedito": null,
+          "DireitoCopia": "Livre",
+          "Pais": "Brasileira",
+          "Ano": 2020,
+          "Video": "HD",
+          "Diretor": "Fred Mayrink ",
+          "AtorPrincipal": null,
+          "Elenco": " Deborah Secco, Juliana Paiva, Vitória Strada, Flavia Alessandra, Rafael Cardoso, Thiago Fragoso, João Baldasserini, Grace Gianoukas, Bruno Ferrari, Felipe Simas, Murilo Rosa, Otavio Augusto",
+          "Dubladores": null,
+          "Genero": { "Descricao": "Novela" },
+          "Subgenero": { "Descricao": "Novela" },
+          "Classificacao": {
+            "Idade": "12",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": {
+            "Descritor": { "Codigo": "E5", "Descricao": "Drogas Lícitas" }
+          },
+          "Resumos": {
+            "Sinopse": "Kyra inventa uma desculpa para a Alexia nunca ter falado sobre a amizade na família",
+            "ResumoImprensa": "Kyra inventa uma desculpa para a Alexia nunca ter falado sobre a amizade na família",
+            "Destaque": "Alan lê carta de Alexia"
+          },
+          "Idiomas": {
+            "Idioma": [{ "Codigo": "por", "Descricao": "Português" }]
+          },
+          "Audios": null,
+          "Graficos": {
+            "URL": "https://gshow.globo.com/novelas/salve-se-quem-puder/vem-por-ai/noticia/salve-se-quem-puder-kyra-deixa-alan-emocionado-ao-entregar-carta-de-alexia.ghtml",
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/11080.jpeg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7987.jpg",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 50,
+          "Tipo": "Novela",
+          "ClosedCaption": true,
+          "URLPrograma": null
+        },
+        "program": {
+          "id": 4123,
+          "name": "Salve-se Quem Puder",
+          "category": "Novela",
+          "parental_guide": null,
+          "webmedia_program_id": 11974
+        }
+      },
+      {
+        "media_id": 49,
+        "title": "Jornal Nacional",
+        "description": "As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.",
+        "webmedia_title_id": "MyCrVrr6gW",
+        "start_time": 1617751800,
+        "end_time": 1617755580,
+        "human_start_time": "23:30:00+00:00",
+        "human_end_time": "00:33:00+00:00",
+        "duration_in_minutes": 63,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": true,
+            "Dom": false
+          },
+          "TituloOriginal": "Jornal Nacional",
+          "TituloPortugues": "Jornal Nacional",
+          "Classe": null,
+          "Programa": "Jornal Nacional",
+          "Complemento": "JORNAL NACIONAL",
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": "Brasil",
+          "Ano": 2021,
+          "Video": "HD",
+          "Diretor": "Ali Kamel",
+          "AtorPrincipal": null,
+          "Elenco": null,
+          "Dubladores": null,
+          "Genero": { "Descricao": "Jornalismo" },
+          "Subgenero": { "Descricao": "Telejornais" },
+          "Classificacao": {
+            "Idade": "Isento",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": "As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos. ",
+            "ResumoImprensa": "As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos. ",
+            "Destaque": null
+          },
+          "Idiomas": {
+            "Idioma": [{ "Codigo": "por", "Descricao": "Português" }]
+          },
+          "Audios": null,
+          "Graficos": {
+            "URL": "http://g1.globo.com/jornal-nacional/",
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/4124.jpg",
+            "PosterURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Poster/9234.JPG",
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 63,
+          "Tipo": "Jornalismo",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "program": {
+          "id": 49,
+          "name": "Jornal Nacional",
+          "category": "Jornalismo",
+          "parental_guide": null,
+          "webmedia_program_id": 819
+        }
+      },
+      {
+        "media_id": 4805,
+        "title": "Amor de Mãe",
+        "description": "'Amor de Mãe' apresenta as histórias de Lurdes, Thelma e Vitória, três mulheres com diferentes trajetórias que se reconhecem no amor pelos filhos.",
+        "webmedia_title_id": "HFbkdv5bs2",
+        "start_time": 1617755580,
+        "end_time": 1617760200,
+        "human_start_time": "00:33:00+00:00",
+        "human_end_time": "01:50:00+00:00",
+        "duration_in_minutes": 77,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "'Amor de Mãe' apresenta as histórias de Lurdes, Thelma e Vitória, três mulheres com diferentes trajetórias que se reconhecem no amor pelos filhos.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": true,
+            "Dom": false
+          },
+          "TituloOriginal": "Amor de Mãe",
+          "TituloPortugues": "Amor de Mãe",
+          "Classe": null,
+          "Programa": "Novela III",
+          "Complemento": "Amor de Mãe",
+          "Apresenta": null,
+          "Capitulo": "122",
+          "Inedito": null,
+          "DireitoCopia": "Livre",
+          "Pais": "Brasileira",
+          "Ano": 2019,
+          "Video": "HD",
+          "Diretor": "José Luiz Villamarim",
+          "AtorPrincipal": null,
+          "Elenco": "Regina Casé, Adriana Esteves, Taís Araujo, Juliano Cazarré, Isis Valverde, Thiago Martins, Jéssica Ellen, Nanda Costa, Murilo Benício, Chay Suede, Vladimir Brichta, Fabrício Boliveira, Julio Andrade, Enrique Diaz, Tuca Andrada, Dan Ferreira, Debora Lamm, Milhem Cortaz, Malu Galli, Letícia Lima, Camila Márdila, Clarissa Kiste, Ana Flavia Cavalcanti;",
+          "Dubladores": null,
+          "Genero": { "Descricao": "Novela" },
+          "Subgenero": { "Descricao": "Novela" },
+          "Classificacao": {
+            "Idade": "14",
+            "Conteudo": null,
+            "Sexo": true,
+            "Drogas": true,
+            "Violencia": true
+          },
+          "DescritoresConteudo": {
+            "Descritor": { "Codigo": "E5", "Descricao": "Drogas Lícitas" }
+          },
+          "Resumos": {
+            "Sinopse": "Danilo sonda Thelma sobre o sítio",
+            "ResumoImprensa": "Danilo sonda Thelma sobre o sítio",
+            "Destaque": "Danilo desconfia da mãe"
+          },
+          "Idiomas": {
+            "Idioma": [{ "Codigo": "por", "Descricao": "Português" }]
+          },
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7392.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7301.jpg",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 77,
+          "Tipo": "Novela",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "program": {
+          "id": 4805,
+          "name": "Amor de Mãe",
+          "category": "Novela",
+          "parental_guide": null,
+          "webmedia_program_id": 11851
+        }
+      },
+      {
+        "media_id": 2996,
+        "title": "Big Brother Brasil 21",
+        "description": "Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.",
+        "webmedia_title_id": null,
+        "start_time": 1617760200,
+        "end_time": 1617763500,
+        "human_start_time": "01:50:00+00:00",
+        "human_end_time": "02:45:00+00:00",
+        "duration_in_minutes": 55,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": true,
+            "Dom": true
+          },
+          "TituloOriginal": "Big Brother Brasil 21",
+          "TituloPortugues": "Big Brother Brasil 21",
+          "Classe": null,
+          "Programa": "Big Brother Brasil 21",
+          "Complemento": "Big Brother Brasil 21",
+          "Apresenta": null,
+          "Capitulo": "72",
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": "Brasileira",
+          "Ano": 2021,
+          "Video": "HD",
+          "Diretor": "Rodrigo Dourado",
+          "AtorPrincipal": null,
+          "Elenco": "Vários",
+          "Dubladores": null,
+          "Genero": { "Descricao": "Reality show" },
+          "Subgenero": { "Descricao": "Reality show" },
+          "Classificacao": {
+            "Idade": "12",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": true,
+            "Violencia": false
+          },
+          "DescritoresConteudo": {
+            "Descritor": { "Codigo": "E5", "Descricao": "Drogas Lícitas" }
+          },
+          "Resumos": {
+            "Sinopse": "Caio, Gilberto ou Rodolffo: qual dos emparedados deixa a casa nesta terça?",
+            "ResumoImprensa": "Caio, Gilberto ou Rodolffo: qual dos emparedados deixa a casa nesta terça?",
+            "Destaque": "Noite de Paredão!"
+          },
+          "Idiomas": {
+            "Idioma": [{ "Codigo": "por", "Descricao": "Português" }]
+          },
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/10890.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10638.jpg",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 55,
+          "Tipo": "Programa",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "program": {
+          "id": 2996,
+          "name": "Big Brother Brasil 21",
+          "category": "Reality show",
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      },
+      {
+        "media_id": 5237,
+        "title": "Todas As Mulheres Do Mundo",
+        "description": "Série faz homenagem à obra de Domingos Oliveira e traz reflexões filosóficas sobre a vida, o amor e a morte com um humor inteligente e refinado.",
+        "webmedia_title_id": "Q8BWybfKQc",
+        "start_time": 1617763500,
+        "end_time": 1617765300,
+        "human_start_time": "02:45:00+00:00",
+        "human_end_time": "03:15:00+00:00",
+        "duration_in_minutes": 30,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "Série faz homenagem à obra de Domingos Oliveira e traz reflexões filosóficas sobre a vida, o amor e a morte com um humor inteligente e refinado.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Semanal",
+          "Dias": {
+            "Seg": false,
+            "Ter": true,
+            "Qua": false,
+            "Qui": false,
+            "Sex": false,
+            "Sab": false,
+            "Dom": false
+          },
+          "TituloOriginal": "Todas As Mulheres Do Mundo",
+          "TituloPortugues": "Todas as Mulheres do Mundo",
+          "Classe": null,
+          "Programa": "Todas As Mulheres Do Mundo",
+          "Complemento": "Todas As Mulheres Do Mundo",
+          "Apresenta": null,
+          "Capitulo": "10",
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": "Brasileira",
+          "Ano": 2020,
+          "Video": "HD",
+          "Diretor": "Patricia Pedrosa",
+          "AtorPrincipal": null,
+          "Elenco": "Emílio Dantas;Matheus Nachtergaele;Sophie Charlotte",
+          "Dubladores": null,
+          "Genero": { "Descricao": "Série/seriado" },
+          "Subgenero": { "Descricao": "Série" },
+          "Classificacao": {
+            "Idade": "14",
+            "Conteudo": null,
+            "Sexo": true,
+            "Drogas": true,
+            "Violencia": false
+          },
+          "DescritoresConteudo": {
+            "Descritor": { "Codigo": "E5", "Descricao": "Drogas Lícitas" }
+          },
+          "Resumos": {
+            "Sinopse": "Série faz homenagem à obra de Domingos Oliveira e traz reflexões filosóficas sobre a vida, o amor e a morte com um humor inteligente e refinado.",
+            "ResumoImprensa": "A série faz uma homenagem à obra do autor, diretor e dramaturgo Domingos Oliveira. Adaptada aos dias de hoje, a história traz reflexões filosóficas sobre a vida, o amor e a morte com um humor inteligente e refinado.",
+            "Destaque": null
+          },
+          "Idiomas": {
+            "Idioma": [{ "Codigo": "por", "Descricao": "Português" }]
+          },
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/10676.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10677.jpg",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 30,
+          "Tipo": "Programa",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "program": {
+          "id": 5237,
+          "name": "Todas As Mulheres Do Mundo",
+          "category": "Série/seriado",
+          "parental_guide": null,
+          "webmedia_program_id": 12384
+        }
+      },
+      {
+        "media_id": 445,
+        "title": "Profissão Repórter",
+        "description": "Os bastidores da notícia e os desafios da reportagem. Diferentes olhares sob o comando de Caco Barcellos",
+        "webmedia_title_id": "m9k2cnjw1D",
+        "start_time": 1617765300,
+        "end_time": 1617767400,
+        "human_start_time": "03:15:00+00:00",
+        "human_end_time": "03:50:00+00:00",
+        "duration_in_minutes": 35,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "Os bastidores da notícia e os desafios da reportagem. Diferentes olhares sob o comando de Caco Barcellos",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Semanal",
+          "Dias": {
+            "Seg": false,
+            "Ter": true,
+            "Qua": false,
+            "Qui": false,
+            "Sex": false,
+            "Sab": false,
+            "Dom": false
+          },
+          "TituloOriginal": "Profissão Repórter",
+          "TituloPortugues": "Profissão Repórter",
+          "Classe": null,
+          "Programa": "Profissão Repórter",
+          "Complemento": "Profissão Repórter",
+          "Apresenta": null,
+          "Capitulo": "416",
+          "Inedito": null,
+          "DireitoCopia": "Livre",
+          "Pais": "Brasileira",
+          "Ano": 2021,
+          "Video": "HD",
+          "Diretor": null,
+          "AtorPrincipal": null,
+          "Elenco": null,
+          "Dubladores": null,
+          "Genero": { "Descricao": "Jornalismo" },
+          "Subgenero": { "Descricao": "Reportagem" },
+          "Classificacao": {
+            "Idade": "Indefinido",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": "Os bastidores da notícia e os desafios da reportagem. Diferentes olhares sob o comando de Caco Barcellos",
+            "ResumoImprensa": " Os bastidores da notícia e os desafios da reportagem. Diferentes olhares sob o comando de Caco Barcellos",
+            "Destaque": null
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/10800.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5217.jpg",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 35,
+          "Tipo": "Programa",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "program": {
+          "id": 445,
+          "name": "Profissão Repórter",
+          "category": "Jornalismo",
+          "parental_guide": null,
+          "webmedia_program_id": 4263
+        }
+      },
+      {
+        "media_id": 87,
+        "title": "Jornal da Globo",
+        "description": "As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.",
+        "webmedia_title_id": "HxbxWLmmRz",
+        "start_time": 1617767400,
+        "end_time": 1617770100,
+        "human_start_time": "03:50:00+00:00",
+        "human_end_time": "04:35:00+00:00",
+        "duration_in_minutes": 45,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": false,
+            "Dom": false
+          },
+          "TituloOriginal": "Jornal da Globo",
+          "TituloPortugues": "Jornal da Globo",
+          "Classe": null,
+          "Programa": "Jornal da Globo",
+          "Complemento": null,
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": "Brasil",
+          "Ano": 2021,
+          "Video": "HD",
+          "Diretor": "Ali Kamel",
+          "AtorPrincipal": null,
+          "Elenco": null,
+          "Dubladores": null,
+          "Genero": { "Descricao": "Jornalismo" },
+          "Subgenero": { "Descricao": "Telejornais" },
+          "Classificacao": {
+            "Idade": "Isento",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": "As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.",
+            "ResumoImprensa": "As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.",
+            "Destaque": null
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/1836.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/30.jpg",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 45,
+          "Tipo": "Jornalismo",
+          "ClosedCaption": false,
+          "URLPrograma": "http://g1.globo.com/jornal-da-globo/"
+        },
+        "program": {
+          "id": 87,
+          "name": "Jornal da Globo",
+          "category": "Jornalismo",
+          "parental_guide": null,
+          "webmedia_program_id": 817
+        }
+      },
+      {
+        "media_id": 3100,
+        "title": "Conversa com Bial",
+        "description": "Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.",
+        "webmedia_title_id": "MGYtfFpVzF",
+        "start_time": 1617770100,
+        "end_time": 1617772200,
+        "human_start_time": "04:35:00+00:00",
+        "human_end_time": "05:10:00+00:00",
+        "duration_in_minutes": 35,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": false,
+            "Dom": false
+          },
+          "TituloOriginal": "Conversa com Bial",
+          "TituloPortugues": "Conversa com Bial",
+          "Classe": null,
+          "Programa": "Conversa com Bial",
+          "Complemento": null,
+          "Apresenta": null,
+          "Capitulo": "729",
+          "Inedito": null,
+          "DireitoCopia": "Livre",
+          "Pais": "Brasil",
+          "Ano": 2021,
+          "Video": "HD",
+          "Diretor": "Monica Almeida",
+          "AtorPrincipal": null,
+          "Elenco": "Pedro Bial,",
+          "Dubladores": null,
+          "Genero": { "Descricao": "Variedade" },
+          "Subgenero": { "Descricao": "Outros" },
+          "Classificacao": {
+            "Idade": "12",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": {
+            "Descritor": { "Codigo": "E3", "Descricao": "Drogas" }
+          },
+          "Resumos": {
+            "Sinopse": "Os irmãos Gustavo e Otávio Pandolfo (OsGemeos) vão falar da exposição 'Segredos', da carreira e do reconhecimento internacional.",
+            "ResumoImprensa": "Os irmãos Gustavo e Otávio Pandolfo (OsGemeos) vão falar da exposição 'Segredos', da carreira e do reconhecimento internacional.",
+            "Destaque": "OsGemeos"
+          },
+          "Idiomas": {
+            "Idioma": [{ "Codigo": "por", "Descricao": "Português" }]
+          },
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/1191.jpg",
+            "PosterURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Poster/9231.jpg",
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/31.jpg",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 35,
+          "Tipo": "Programa",
+          "ClosedCaption": false,
+          "URLPrograma": "http://gshow.globo.com/programas/conversa-com-bial/"
+        },
+        "program": {
+          "id": 3100,
+          "name": "Conversa com Bial",
+          "category": "Variedade",
+          "parental_guide": null,
+          "webmedia_program_id": 10086
+        }
+      },
+      {
+        "media_id": 54,
+        "title": "Corujão I - Escola De Espiões",
+        "description": "Filmes na madrugada",
+        "webmedia_title_id": null,
+        "start_time": 1617772200,
+        "end_time": 1617778800,
+        "human_start_time": "05:10:00+00:00",
+        "human_end_time": "07:00:00+00:00",
+        "duration_in_minutes": 110,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "Filmes na madrugada",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": true,
+            "Dom": true
+          },
+          "TituloOriginal": "Barely Lethal",
+          "TituloPortugues": "Escola de Espiões",
+          "Classe": "Ação",
+          "Programa": "Corujão I",
+          "Complemento": "Escola de Espiões",
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": "Americana",
+          "Ano": 2015,
+          "Video": "HD",
+          "Diretor": "Kyle Newman",
+          "AtorPrincipal": null,
+          "Elenco": "Jessica Alba; Dove Cameron; Rachael Harris; Samuel L Jackson; Hailee Steinfeld; Sophie Turner",
+          "Dubladores": "Mr. Drumm: Alex Morales/ Gooch: Caio Guanieri/ Heckler #1 E Henchman: Ricardo Monastero/ Leonard Steinman: Dlaigeles Ribas/ Fred The Freshman: Dlaigeles Ribas/ Henchman Jones: Francisco Jr/ Heather: Tati Keplmair/ Liz Larson: Agatha Paulita / Pedro: Cassiano Avila/ Missy: Bruna Matta/ Donna: Andressa Bodê/ Cindy: Bruna Rafael/ Victoria Knox: Eleonora Prado/ Megan: Kate Kelly/ Cash: Thiago Zambrano/ Marcus: Marcio Marconato/ Josh: Leandro Oliveira/ Lidia: Rosangela Mello/ Roger: Bruno Melo/ Penny: Sandra Mara/ Capanga: Ricardo Monastero/ Boneco: Cassiano Avila/ Bishop: Cassiano Avila/ Lion: Ricardo Campos/ Garotinha: Bruna Matta/ Mascarado: Marcio Marconato/ Vozes Adicionais: Alexandre Cruz/ Andressa Bodê/ Bruna Matta/ Bruna Rafaela/ Leandro Oliveira/ Mariana Mirabert/ Ricardo Campos/ Rosangela Mello/ Placa: Tonny Astassie.",
+          "Genero": { "Descricao": "Filme" },
+          "Subgenero": { "Descricao": "Filme" },
+          "Classificacao": {
+            "Idade": "14",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": {
+            "Descritor": { "Codigo": "E3", "Descricao": "Drogas" }
+          },
+          "Resumos": {
+            "Sinopse": "Megan é uma jovem assassina, mas ela decide recomeçar de novo e se inscreve numa pequena escola. Sua antiga chefe desconfia e decide investigar o caso.",
+            "ResumoImprensa": "Aos 16 anos de idade, Megan Walsh já é uma jovem assassina, treinada com os melhores. Mas ela está cansada desta vida, e finge a própria morte para recomeçar de novo. Com uma identidade secreta, ela se inscreve como aluna de uma pequena escola, mas sua antiga chefe desconfia do golpe e decide investigar o caso.",
+            "Destaque": null
+          },
+          "Idiomas": {
+            "Idioma": [{ "Codigo": "por", "Descricao": "Português" }]
+          },
+          "Audios": { "Audio": [{ "Tipo": "AudioDescriptor" }] },
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/8939.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 110,
+          "Tipo": "Filme",
+          "ClosedCaption": true,
+          "URLPrograma": null
+        },
+        "program": {
+          "id": 54,
+          "name": "Corujão I - Escola De Espiões",
+          "category": "Filme",
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      }
+    ]
+  }
+}

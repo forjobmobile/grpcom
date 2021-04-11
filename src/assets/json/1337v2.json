@@ -1,0 +1,183 @@
+{
+  "programme": {
+    "date": "2021-04-06",
+    "entries": [
+      {
+        "media_id": 1980,
+        "title": "Hora Um",
+        "description": "Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.",
+        "webmedia_title_id": null,
+        "start_time": 1617692400,
+        "end_time": 1617699600,
+        "human_start_time": "07:00:00+00:00",
+        "human_end_time": "09:00:00+00:00",
+        "duration_in_minutes": 120,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": false,
+            "Dom": false
+          },
+          "TituloOriginal": null,
+          "TituloPortugues": null,
+          "Classe": null,
+          "Programa": "Hora Um",
+          "Complemento": null,
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Livre",
+          "Pais": "Brasil",
+          "Ano": 2021,
+          "Video": "HD",
+          "Diretor": null,
+          "AtorPrincipal": null,
+          "Elenco": null,
+          "Dubladores": null,
+          "Genero": { "Descricao": "Jornalismo" },
+          "Subgenero": { "Descricao": "Telejornais" },
+          "Classificacao": {
+            "Idade": "Isento",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": "Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.",
+            "ResumoImprensa": "Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.",
+            "Destaque": null
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6682.jpg",
+            "PosterURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Poster/9257.jpg",
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5.jpg",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 120,
+          "Tipo": "Jornalismo",
+          "ClosedCaption": false,
+          "URLPrograma": "https://g1.globo.com/hora1/"
+        },
+        "program": {
+          "id": 1980,
+          "name": "Hora Um",
+          "category": "Jornalismo",
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      },
+      {
+        "media_id": 4519,
+        "title": "Meio Dia Paraná ",
+        "description": ".",
+        "webmedia_title_id": null,
+        "start_time": 1617699600,
+        "end_time": 1617708600,
+        "human_start_time": "09:00:00+00:00",
+        "human_end_time": "11:30:00+00:00",
+        "duration_in_minutes": 150,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RPC",
+          "LogoEmissoraURL": null,
+          "Local": "true",
+          "DescricaoPrograma": ".",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": true,
+            "Dom": false
+          },
+          "TituloOriginal": null,
+          "TituloPortugues": null,
+          "Classe": null,
+          "Programa": "Meio Dia Paraná ",
+          "Complemento": "Meio Dia Paraná ",
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": null,
+          "Ano": 2019,
+          "Video": "SD",
+          "Diretor": null,
+          "AtorPrincipal": null,
+          "Elenco": null,
+          "Dubladores": null,
+          "Genero": { "Descricao": "Educativo" },
+          "Subgenero": { "Descricao": "Educativo" },
+          "Classificacao": {
+            "Idade": "Indefinido",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": null,
+            "ResumoImprensa": null,
+            "Destaque": "Cobertura especial - Bandeira vermelha em Curitiba / Coronavírus no Paraná"
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/2857.png",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/2856.png",
+            "Confronto": {
+              "Oponente": [
+                { "Nome": null, "URL": null, "ImagemURL": null },
+                { "Nome": null, "URL": null, "ImagemURL": null }
+              ]
+            }
+          },
+          "Duracao": 150,
+          "Tipo": "Jornalismo",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "program": {
+          "id": 4519,
+          "name": "Meio Dia Paraná ",
+          "category": "Educativo",
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      }
+    ]
+  }
+}
